@@ -11,12 +11,7 @@ const Header = () => {
           <ul className="flex space-x-8">
             <li>
               <Link to="/" className="text-secondary hover:text-primary transition-colors">
-                Home
-              </Link>
-            </li>
-            <li>
-              <Link to="/cart" className="text-secondary hover:text-primary transition-colors">
-                Cart
+                Inicio
               </Link>
             </li>
           </ul>
